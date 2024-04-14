@@ -7,7 +7,7 @@ struct HomeView: View {
             
             ScrollView{
                 VStack {
-                    Text("A Life that Flows Naturally like Water-~")
+                    Text("A Life that Flows Naturally like Water-")
                         .foregroundColor(.white)
                         .font(.largeTitle)
                         .bold()
